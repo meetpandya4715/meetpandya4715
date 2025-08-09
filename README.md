@@ -57,13 +57,6 @@ I combine **deep learning expertise** with **system-level optimization** to deli
 
 ---
 
-## 📈 GitHub Stats
-
-![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetpandya4715&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetpandya4715&layout=compact&theme=radical)
-
----
-
 ## ⚡ Technical Hobbies
 
 - 🕹 **Pygame Game Development** – Building small interactive games for fun & prototyping  
